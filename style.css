@@ -1,0 +1,80 @@
+.top {
+  text-align: center;
+  background-color: rgb(253, 237, 215);
+  border: solid 1px black;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.dogPics {
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
+}
+.clioPics {
+  border: solid 3px darkgreen;
+  border-radius: 10px;
+  background-color: rgb(243, 251, 239);
+  padding-left: 35px;
+  padding-right: 35px;
+  margin: 30px;
+}
+.clio {
+  background-image: url(./assets/TreeClioBackground.jpg);
+  background-color: darkgreen;
+  text-align: center;
+  border: solid 2px darkgreen;
+  border-radius: 10px;
+  color: antiquewhite;
+  font-size: x-large;
+  margin-bottom: 20px;
+}
+
+.clio p {
+  background-color: darkgreen;
+}
+
+#porthosPic {
+  border: solid 3px rgb(214, 140, 55);
+  border-radius: 10px;
+  background-color: rgb(255, 247, 236);
+  padding: 45px 10px 45px 10px;
+}
+
+.porthos {
+  background-image: url(./assets/PorthosDesertBackground.jpg);
+  background-color: rgb(214, 140, 55);
+  text-align: center;
+  border: solid 2px rgb(214, 140, 55);
+  border-radius: 10px;
+  color: black;
+  font-size: x-large;
+  margin-bottom: 20px;
+}
+.porthos p {
+  background-color: peachpuff;
+}
+
+#athosPic {
+  border: solid 3px skyblue;
+  border-radius: 10px;
+  background-color: rgb(232, 241, 247);
+  padding: 40px 10px 40px 10px;
+}
+
+.athos {
+  background-image: url(./assets/AthosSkyBackground.jpg);
+  background-color: skyblue;
+  text-align: center;
+  border: solid 2px skyblue;
+  border-radius: 10px;
+  color: rgb(58, 56, 56);
+  font-size: x-large;
+}
+
+.athos p {
+  background-color: rgb(232, 241, 247);
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
